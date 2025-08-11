@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/INVENTARIO/static/css/main.0ed68cf8.css",
+    "main.js": "/INVENTARIO/static/js/main.a85d15ce.js",
+    "index.html": "/INVENTARIO/index.html",
+    "main.0ed68cf8.css.map": "/INVENTARIO/static/css/main.0ed68cf8.css.map",
+    "main.a85d15ce.js.map": "/INVENTARIO/static/js/main.a85d15ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed68cf8.css",
+    "static/js/main.a85d15ce.js"
+  ]
+}
